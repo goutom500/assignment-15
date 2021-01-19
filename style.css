@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body,h3,p,a{
+    font-family: 'Heebo', sans-serif;
+}
+.main-div{
+    width: 1024px;
+    margin: 10px auto;
+    text-align: center;
+}
+.header{
+    background-color:#34495e;
+    padding: 50px 0;
+}
+.slider{
+    background-color: #e67e22;
+    padding: 35px 30px;
+    color: #fff;
+}
+.service{
+    background-color:#d35400;
+    padding: 30px 20px;
+}
+.footer{
+    background-color: #2c3e50;
+    padding: 25px 0;
+}
+.header-menu li{
+    display: inline-block;
+    background-color:#e67e22;
+    padding: 5px 10px;
+    margin: 0 10px;
+}
+.header-menu li a{
+    text-decoration: none;
+    color: #000;
+}
+.slider h3{
+    font-size: 30px;
+}
+.slider p{
+    line-height: 1.2rem;
+}
+.btn{
+    padding: 7px 12px;
+    background-color:#dc3545;
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+.btn:hover{
+    background-color: rgb(126, 73, 85);
+    transition: .4s;
+}
+.service-item li{
+    display: inline-block;
+    margin: 25px 8px;
+}
+.service P{
+    color: #fff;
+}
+.footer-menu{
+    margin: 15px 0;
+}
+.footer-menu li{
+    display: inline-block;
+    background-color:#e67e22;
+    padding: 5px 10px;
+    margin: 0 10px;
+}
+.footer-menu li a{
+    text-decoration: none;
+    color: #000;
+}
+.footer p {
+	margin-top: 30px;
+}
